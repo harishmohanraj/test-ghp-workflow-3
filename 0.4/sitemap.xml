@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://harishmohanraj.github.io/test-ghp-workflow-3/0.4/</loc>
+         <lastmod>2023-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-ghp-workflow-3/0.4/00_core/</loc>
+         <lastmod>2023-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-ghp-workflow-3/0.4/changelog_not_found/</loc>
+         <lastmod>2023-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-ghp-workflow-3/0.4/cli_commands_not_found/</loc>
+         <lastmod>2023-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-ghp-workflow-3/0.4/api/test_ghp_workflow_3/core/foo/</loc>
+         <lastmod>2023-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
